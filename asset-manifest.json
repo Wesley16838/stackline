@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stackline/static/css/main.315912fd.chunk.css",
+    "main.css": "/stackline/static/css/main.6020eac2.chunk.css",
     "main.js": "/stackline/static/js/main.14b74c09.chunk.js",
     "main.js.map": "/stackline/static/js/main.14b74c09.chunk.js.map",
     "runtime-main.js": "/stackline/static/js/runtime-main.b6a6da65.js",
@@ -10,14 +10,14 @@
     "static/js/3.f5a91ea1.chunk.js": "/stackline/static/js/3.f5a91ea1.chunk.js",
     "static/js/3.f5a91ea1.chunk.js.map": "/stackline/static/js/3.f5a91ea1.chunk.js.map",
     "index.html": "/stackline/index.html",
-    "static/css/main.315912fd.chunk.css.map": "/stackline/static/css/main.315912fd.chunk.css.map",
+    "static/css/main.6020eac2.chunk.css.map": "/stackline/static/css/main.6020eac2.chunk.css.map",
     "static/js/2.3fe5230c.chunk.js.LICENSE.txt": "/stackline/static/js/2.3fe5230c.chunk.js.LICENSE.txt",
     "static/media/stackline_logo.5935081b.svg": "/stackline/static/media/stackline_logo.5935081b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b6a6da65.js",
     "static/js/2.3fe5230c.chunk.js",
-    "static/css/main.315912fd.chunk.css",
+    "static/css/main.6020eac2.chunk.css",
     "static/js/main.14b74c09.chunk.js"
   ]
 }
