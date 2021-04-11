@@ -1,0 +1,42 @@
+.table-header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  .table-title {
+    width: 20%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: all ease-in-out 0.2s;
+    &:hover {
+      opacity: 0.5;
+    }
+    p {
+      margin: 0px;
+      width: fit-content;
+    }
+  }
+}
+.table-body {
+  width: 100%;
+  .table-row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-top: solid 1px #f2f2f2;
+    .table-cell {
+      width: 20%;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+      color: #919191;
+    }
+  }
+}

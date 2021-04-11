@@ -1,0 +1,18 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 45px 0px 45px;
+  box-sizing: border-box;
+  width: 100%;
+  border-bottom: solid 1px rgb(240, 240, 240);
+  .item-image {
+    width: 250px;
+  }
+  p {
+    color: #e4e4e4;
+  }
+  h2 {
+    margin-bottom: 0px;
+  }
+}
